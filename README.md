@@ -1,0 +1,1 @@
+Used PostgreSQL to answer a proposed question for a DVD comapny. Which was what are our top five most profitable categories. This involved creating user-defined functions, table joins, creating triggers that will update the tables, and stored procedures to refresh the data. There are screenshots provided to show the code as well as the outputs. 
